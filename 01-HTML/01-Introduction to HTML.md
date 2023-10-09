@@ -64,3 +64,7 @@ Each character reference starts with an ampersand (`&`), and ends with a semicol
 | & | `&amp;` | ampersand |
 
 ?> **Note**: You don't need to use entity references for any other symbols, as modern browsers will handle the actual symbols just fine as long as your HTML's character encoding is set to **UTF-8**.
+
+---
+
+?> Update on: 📅 {docsify-updated}
