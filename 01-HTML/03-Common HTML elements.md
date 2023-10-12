@@ -148,4 +148,4 @@ Here's an example that includes a cc, bcc, subject and body:
 
 ---
 
-?> Update on: 📅 {docsify-updated}
+?> {docsify-updated}

@@ -67,4 +67,4 @@ For example, we can specify the author and add some description of the website:
 
 ---
 
-?> Update on: 📅 {docsify-updated}
+?> {docsify-updated}

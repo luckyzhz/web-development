@@ -200,4 +200,4 @@ HTML also provides the `<time>` element for marking up times and dates in a mach
 
 ---
 
-?> Update on: 📅 {docsify-updated}
+?> {docsify-updated}

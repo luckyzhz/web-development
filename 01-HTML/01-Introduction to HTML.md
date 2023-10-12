@@ -67,4 +67,4 @@ Each character reference starts with an ampersand (`&`), and ends with a semicol
 
 ---
 
-?> Update on: 📅 {docsify-updated}
+?> {docsify-updated}
