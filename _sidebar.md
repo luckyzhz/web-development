@@ -6,3 +6,4 @@
   * [05-Document and website structure](01-HTML/05-Document%20and%20website%20structure.md)
   * [06-Images in HTML](01-HTML/06-Images%20in%20HTML.md)
   * [07-Video and audio content](01-HTML/07-Video%20and%20audio%20content.md)
+  * [08-Other embedding technologies](01-HTML/08-Other%20embedding%20technologies.md)
