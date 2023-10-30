@@ -8,3 +8,4 @@
   * [07-Video and audio content](01-HTML/07-Video%20and%20audio%20content.md)
   * [08-Other embedding technologies](01-HTML/08-Other%20embedding%20technologies.md)
   * [09-Responsive images](01-HTML/09-Responsive%20images.md)
+  * [10-HTML tables](01-HTML/10-HTML%20tables.md)
