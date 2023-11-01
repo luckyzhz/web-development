@@ -11,3 +11,4 @@
   * [10-HTML tables](01-HTML/10-HTML%20tables.md)
 * 02-CSS
   * [01-Introduction to CSS](02-CSS/01-Introduction%20to%20CSS.md)
+  * [02-How CSS works](02-CSS/02-How%20CSS%20works.md)
