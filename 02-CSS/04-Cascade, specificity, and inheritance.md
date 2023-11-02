@@ -118,11 +118,11 @@ Conflicting declarations will be applied in the following order, with later ones
 1. Declarations in user **agent** style sheets (e.g., the browser's default styles, used when no other styling is set).
 2. Normal declarations in **user** style sheets (custom styles set by a user).
 3. Normal declarations in **author** style sheets (these are the styles set by us, the web developers).
-4. Important declarations in **author** style sheets.
-5. Important declarations in **user** style sheets.
-6. Important declarations in user **agent** style sheets.
+4. **Important** declarations in **author** style sheets.
+5. **Important** declarations in **user** style sheets.
+6. **Important** declarations in user **agent** style sheets.
 
-We can note that the order of precedence is inverted for styles flagged with `!important`.
+We can note that the order of precedence is **inverted** for styles flagged with `!important`.
 
 ### Order of cascade layers
 
