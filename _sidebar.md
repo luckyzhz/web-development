@@ -14,3 +14,4 @@
   * [02-How CSS works](02-CSS/02-How%20CSS%20works.md)
   * [03-CSS selectors](02-CSS/03-CSS%20selectors.md)
   * [04-Cascade, specificity, and inheritance](02-CSS/04-Cascade,%20specificity,%20and%20inheritance.md)
+  * [05-Cascade layers](02-CSS/05-Cascade%20layers.md)
