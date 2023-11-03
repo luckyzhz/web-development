@@ -15,3 +15,5 @@
   * [03-CSS selectors](02-CSS/03-CSS%20selectors.md)
   * [04-Cascade, specificity, and inheritance](02-CSS/04-Cascade,%20specificity,%20and%20inheritance.md)
   * [05-Cascade layers](02-CSS/05-Cascade%20layers.md)
+  * [06-The box model](02-CSS/06-The%20box%20model.md)
+  * 
