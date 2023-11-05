@@ -22,4 +22,5 @@
   * [10-CSS values and units](02-CSS/10-CSS%20values%20and%20units.md)
   * [11-Sizing items in CSS](02-CSS/11-Sizing%20items%20in%20CSS.md)
   * [12-Images, media, and form elements](02-CSS/12-Images,%20media,%20and%20form%20elements.md)
+  * [13-Styling tables](02-CSS/13-Styling%20tables.md)
   * 
