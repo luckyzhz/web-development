@@ -23,4 +23,5 @@
   * [11-Sizing items in CSS](02-CSS/11-Sizing%20items%20in%20CSS.md)
   * [12-Images, media, and form elements](02-CSS/12-Images,%20media,%20and%20form%20elements.md)
   * [13-Styling tables](02-CSS/13-Styling%20tables.md)
+  * [14-Debugging CSS](02-CSS/14-Debugging%20CSS.md)
   * 
