@@ -27,4 +27,5 @@
   * [15-Organizing your CSS](02-CSS/15-Organizing%20your%20CSS.md)
   * [16-Fundamental text and font styling](02-CSS/16-Fundamental%20text%20and%20font%20styling.md)
   * [17-Styling lists](02-CSS/17-Styling%20lists.md)
+  * [18-Styling links](02-CSS/18-Styling%20links.md)
   * 
