@@ -25,4 +25,5 @@
   * [13-Styling tables](02-CSS/13-Styling%20tables.md)
   * [14-Debugging CSS](02-CSS/14-Debugging%20CSS.md)
   * [15-Organizing your CSS](02-CSS/15-Organizing%20your%20CSS.md)
+  * [16-Fundamental text and font styling](02-CSS/16-Fundamental%20text%20and%20font%20styling.md)
   * 
