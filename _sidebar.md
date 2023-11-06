@@ -29,4 +29,5 @@
   * [17-Styling lists](02-CSS/17-Styling%20lists.md)
   * [18-Styling links](02-CSS/18-Styling%20links.md)
   * [19-Web fonts](02-CSS/19-Web%20fonts.md)
+  * [20-Flexbox](02-CSS/20-Flexbox.md)
   * 
