@@ -31,4 +31,5 @@
   * [19-Web fonts](02-CSS/19-Web%20fonts.md)
   * [20-Flexbox](02-CSS/20-Flexbox.md)
   * [21-Grids](02-CSS/21-Grids.md)
+  * [22-Floats](02-CSS/22-Floats.md)
   * 
