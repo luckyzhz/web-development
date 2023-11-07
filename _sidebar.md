@@ -34,4 +34,5 @@
   * [22-Floats](02-CSS/22-Floats.md)
   * [23-Positioning](02-CSS/23-Positioning.md)
   * [24-Multiple-column layout](02-CSS/24-Multiple-column%20layout.md)
+  * [25-Beginner's guide to media queries](02-CSS/25-Beginner's%20guide%20to%20media%20queries.md)
   * 
