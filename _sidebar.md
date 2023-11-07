@@ -33,4 +33,5 @@
   * [21-Grids](02-CSS/21-Grids.md)
   * [22-Floats](02-CSS/22-Floats.md)
   * [23-Positioning](02-CSS/23-Positioning.md)
+  * [24-Multiple-column layout](02-CSS/24-Multiple-column%20layout.md)
   * 
