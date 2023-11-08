@@ -36,4 +36,6 @@
   * [24-Multiple-column layout](02-CSS/24-Multiple-column%20layout.md)
   * [25-Beginner's guide to media queries](02-CSS/25-Beginner's%20guide%20to%20media%20queries.md)
   * [26-Legacy layout methods](02-CSS/26-Legacy%20layout%20methods.md)
+* 03-JavaScript
+  * [01-How to add JavaScript](03-JavaScript/01-How%20to%20add%20JavaScript.md)
   * 
