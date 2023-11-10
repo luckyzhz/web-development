@@ -41,4 +41,5 @@
   * [02-Useful string methods](03-JavaScript/02-Useful%20string%20methods.md)
   * [03-Arrays](03-JavaScript/03-Arrays.md)
   * [04-Introduction to events](03-JavaScript/04-Introduction%20to%20events.md)
+  * [05-JavaScript object basics](03-JavaScript/05-JavaScript%20object%20basics.md)
   * 
