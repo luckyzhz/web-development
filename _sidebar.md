@@ -43,4 +43,5 @@
   * [04-Introduction to events](03-JavaScript/04-Introduction%20to%20events.md)
   * [05-JavaScript object basics](03-JavaScript/05-JavaScript%20object%20basics.md)
   * [06-Object prototypes](03-JavaScript/06-Object%20prototypes.md)
+  * [07-Classes in JavaScript](03-JavaScript/07-Classes%20in%20JavaScript.md)
   * 
