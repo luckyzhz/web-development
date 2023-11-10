@@ -40,4 +40,5 @@
   * [01-How to add JavaScript](03-JavaScript/01-How%20to%20add%20JavaScript.md)
   * [02-Useful string methods](03-JavaScript/02-Useful%20string%20methods.md)
   * [03-Arrays](03-JavaScript/03-Arrays.md)
+  * [04-Introduction to events](03-JavaScript/04-Introduction%20to%20events.md)
   * 
