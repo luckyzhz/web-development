@@ -45,4 +45,5 @@
   * [06-Object prototypes](03-JavaScript/06-Object%20prototypes.md)
   * [07-Classes in JavaScript](03-JavaScript/07-Classes%20in%20JavaScript.md)
   * [08-Working with JSON](03-JavaScript/08-Working%20with%20JSON.md)
+  * [09-Introducing asynchronous JavaScript](03-JavaScript/09-Introducing%20asynchronous%20JavaScript.md)
   * 
