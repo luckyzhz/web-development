@@ -49,4 +49,5 @@
   * [10-How to use promises](03-JavaScript/10-How%20to%20use%20promises.md)
   * [11-How to implement a promise-based API](03-JavaScript/11-How%20to%20implement%20a%20promise-based%20API.md)
   * [12-Introducing workers](03-JavaScript/12-Introducing%20workers.md)
+  * [13-Manipulating documents](03-JavaScript/13-Manipulating%20documents.md)
   * 
